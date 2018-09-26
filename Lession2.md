@@ -90,7 +90,7 @@
 * Cho phép lập trình viên xác định rằng một hành động nên được lặp lại, tùy thuộc vào giá trị điều kiện  
 * Khi được sử dụng trong một chương trình, cấu trúc lặp lại, cũng được gọi là vòng lặp, hướng máy tính lặp lại một hoặc nhiều câu lệnh cho đến khi một số điều kiện được đáp ứng, tại thời điểm đó máy tính nên dừng lặp lại câu lệnh  
 ![Repetition structure](images/repetiton_structure.png)  
-![Repetition structure1](images/repetiton_structure1.png) 
+![Repetition structure1](images/repetiton_structure1.png)  
 ![Repetition structure2](images/repetiton_structure2.png) 
 
 ### Cấu trúc dữ liệu  
