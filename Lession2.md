@@ -89,16 +89,16 @@
 3. Cấu trúc lặp  
 * Cho phép lập trình viên xác định rằng một hành động nên được lặp lại, tùy thuộc vào giá trị điều kiện  
 * Khi được sử dụng trong một chương trình, cấu trúc lặp lại, cũng được gọi là vòng lặp, hướng máy tính lặp lại một hoặc nhiều câu lệnh cho đến khi một số điều kiện được đáp ứng, tại thời điểm đó máy tính nên dừng lặp lại câu lệnh  
-![Selection structure](images/repetition_structure.png)  
-![Selection structure1](images/repetition_structure1.png)  
-![Selection structure2](images/repetition_structure2.png)  
+![Repetiton structure](images/repetition_structure.png)  
+![Repetiton structure1](images/repetition_structure1.png)  
+![Repetiton structure2](images/repetition_structure2.png)  
 
-3. Cấu trúc dữ liệu  
+### Cấu trúc dữ liệu  
 * Làm thế nào để lựa chọn hoặc đưa ra các cấu trúc dữ liệu thích hợp cho một vấn đề?
 	* Thuật toán sẽ phải thao tác dữ liệu theo cách nào đó -> Cách chúng tôi chọn để lưu trữ và sắp xếp dữ liệu của chúng tôi (tức là cấu trúc dữ liệu) ảnh hưởng trực tiếp đến hiệu quả của thuật toán của chúng tôi  
 	* Cấu trúc dữ liệu cổ điển: thiết kế, triển khai và sử dụng  
 
-4. Kiểu  
+**Kiểu**  
 * Kiểu nguyên thủy  
 	* Integer, Boolean, String, ...  
 * Loại hỗn hợp  
