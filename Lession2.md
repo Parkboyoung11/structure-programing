@@ -89,7 +89,7 @@
 3. Cấu trúc lặp  
 * Cho phép lập trình viên xác định rằng một hành động nên được lặp lại, tùy thuộc vào giá trị điều kiện  
 * Khi được sử dụng trong một chương trình, cấu trúc lặp lại, cũng được gọi là vòng lặp, hướng máy tính lặp lại một hoặc nhiều câu lệnh cho đến khi một số điều kiện được đáp ứng, tại thời điểm đó máy tính nên dừng lặp lại câu lệnh  
-![Repetiton structure](images/repetition_structure.png)  
+![Repetiton structure](images/repetition _structure1.png)    
 ![Repetiton structure1](images/repetition_structure1.png)  
 ![Repetiton structure2](images/repetition_structure2.png)  
 
