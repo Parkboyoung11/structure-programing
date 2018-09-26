@@ -42,3 +42,23 @@
 	* Giải quyết vấn đề: từ trên xuống, từ dưới lên, giữa chừng  
 	* Tóm tắt và tổ chức chương trình: mô-đun, dịch vụ, chức năng, đối tượng, ...  
 	* Yếu tố chương trình: mã có cấu trúc
+
+3. Ưu điểm của lập trình cấu trúc  
+* Chuỗi hoạt động đơn giản để theo dõi, do đó tạo điều kiện gỡ lỗi  
+* Có một số hữu hạn các cấu trúc với thuật ngữ chuẩn hóa  
+	* Cấu trúc cho vay dễ dàng để xây dựng các chương trình con  
+	* Bộ cấu trúc hoàn tất; có nghĩa là, một chương trình có thể được viết bằng cách sử dụng các cấu trúc này  
+* Các cấu trúc tự tài liệu và do đó dễ đọc.  
+* Các cấu trúc dễ mô tả trong sơ đồ, sơ đồ cú pháp, mã giả, v.v.  
+* Kết quả lập trình có cấu trúc trong chương trình tăng năng suất lập trình viên có thể được viết nhanh hơn.  
+
+4. Nhược điểm của lập trình có cấu trúc  
+* Một số ngôn ngữ cấp cao (Pascal, C, Java, Lisp, ...) chấp nhận cấu trúc trực tiếp; trong khi những người khác yêu cầu thêm một giai đoạn dịch thuật.  
+* Trong một số trường hợp, các chương trình có cấu trúc có thể thực thi chậm hơn và yêu cầu nhiều bộ nhớ hơn so với quivalent không có cấu trúc.  
+* Một số vấn đề (thiểu số) khó giải quyết hơn khi chỉ sử dụng ba cấu trúc chứ không phải là cách tiếp cận "spaghetti" mạnh mẽ.  
+* Các cấu trúc lồng nhau có thể khó theo dõi.  
+
+## Cấu trúc của chương trình  
+1. Cấu trúc của chương trình máy tính  
+![Structure of computer programs](images/struct_of_computer_program.png)  
+2. Cấu trúc điều khiển
